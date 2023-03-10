@@ -26,8 +26,8 @@ function App() {
           <div className="contact-cards">
             <div>
               <h4>Contact</h4>
-              <a href="tel:12402450909" className='main-btn'>Call Now</a>
-              <p className='tel'>(240) 245 09 09</p>
+              <a href="tel:12405824243" className='main-btn'>Call Now</a>
+              <p className='tel'>(240) 582 42 43</p>
             </div>
             <div>
               <h4>Business Hours</h4>
@@ -45,7 +45,7 @@ function App() {
 				</section>
 			</Container>
       <footer>
-        Green Services &copy; 2015
+        Allclean Duct &copy; 2015
       </footer>
 		</div>
 	)

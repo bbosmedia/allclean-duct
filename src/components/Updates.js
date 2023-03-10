@@ -1,7 +1,7 @@
 import React from 'react'
 
 import img3 from '../images/3.jpg'
-import img4 from '../images/4.jpg'
+import img4 from '../images/dryer.jpg'
 
 const Updates = () => {
 	return (
@@ -44,7 +44,7 @@ const Updates = () => {
 					</ul>
 				</div>
 				<div className="updates_card">
-					<img src={img3} alt="" />
+					<img src={img4} alt="" />
 					<h4>$395 Air Duct and Dryer Vent Cleaning</h4>
 					<ul className="updates_card-content">
 						<li>Cleaning all supply vents</li>
